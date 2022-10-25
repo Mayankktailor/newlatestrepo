@@ -1,6 +1,13 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/api/stripe": "pages/api/stripe.js",
+  "/_app": "pages/_app.js",
+  "/cancelled": "pages/cancelled.js",
+  "/api/hello": "pages/api/hello.js",
+  "/success": "pages/success.js",
+  "/about": "pages/about.js",
+  "/collection": "pages/collection.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/product/[slug]": "pages/product/[slug].js"
 }
